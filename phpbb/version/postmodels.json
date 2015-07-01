@@ -2,6 +2,7 @@
     "unstable": {
         "1.1": {
             "current": "1.1.0-b1",
+            "announcement": "http://forums.phpbb-fr.com/extensions-developpement-en-cours-phpbb31/sujet205272.html"
             "download": "https://github.com/Zoddo/phpbb-postmodels/archive/1.1.0-b1.zip",
             "eol": null,
             "security": false
